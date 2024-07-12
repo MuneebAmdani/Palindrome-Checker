@@ -1,0 +1,12 @@
+@media (max-width:550px)
+{
+    .container{
+        height: 70vh;
+    }
+}
+@media (max-width:636px)
+{
+    .container{
+        height: 60vh;
+    }
+}

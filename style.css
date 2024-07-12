@@ -1,0 +1,42 @@
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4nUA2mlu3aQVJYCz9kvPVmq-P4QuXeQ4UA&s');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+    margin: 13%;
+    background-color: black;
+    width: 60%;
+    height: 55vh;
+    padding:18px ;
+    border-radius: 15px;
+    margin-left: 18%;
+}
+.container button{
+    color: white;
+    width: 66%;
+    background-color: purple;
+    height: 9vh;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+
+}
+.container h1{
+    color: white;
+}
+.container input{
+    width: 66%;
+    height: 9vh;
+    font-size: 16px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 5px;
+}
+.container button:hover{
+    background-color: lightcoral;
+}
